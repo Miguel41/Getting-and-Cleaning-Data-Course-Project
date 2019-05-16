@@ -1,10 +1,4 @@
----
-title: "Cookbook"
-output:
-  html_document:
-    toc: true
-    theme: united
----
+# Cookbook
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0

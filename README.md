@@ -1,10 +1,4 @@
----
-title: "Readme"
-output:
-  html_document:
-    toc: true
-    theme: united
----
+#Readme
 
 ## Introduction
 
